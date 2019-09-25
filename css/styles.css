@@ -116,4 +116,19 @@ section #Dicas {
 #Dicas h1{
 	color: white;
 }
+section  {
+	background-color: black;
+}
+section div{
+	color: #fff;
+}
+
+section div p {
+	text-align: center	;
+}
+
+.tem {
+	display: flex;
+	flex-direction: column;
+}
 
