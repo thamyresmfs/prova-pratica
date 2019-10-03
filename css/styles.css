@@ -20,7 +20,7 @@ header {
 
 header nav {
 	padding-top: 15px;
-	background: black;
+	background: orangered;
 	height: 35px
 }
 
@@ -89,6 +89,8 @@ section {
 	color: #000;
 	text-align: justify;
 	padding-bottom: 20px;
+	padding: 6px;
+	
 }
 
 #images {
@@ -103,32 +105,45 @@ section {
 }
 
 .img span {
-		padding-bottom: 20px;
+		padding-bottom: 17px;
 }
 
 section #Dicas {
 	padding-top: 50px;
 	width: 100%;
 	height: 90vh;
-	background-color: black
+	background-color: black;
 }
 
 #Dicas h1{
 	color: white;
 }
 section  {
-	background-color: black;
+	background-color: white;
 }
 section div{
 	color: #fff;
 }
 
 section div p {
-	text-align: center	;
+	text-align: center;
+	color: #000;
 }
 
 .tem {
 	display: flex;
 	flex-direction: column;
+	background-color: #fff;
 }
 
+.gg{
+	background-color: #fff;
+	
+}
+.cor {
+	color: #fff;
+}
+.pdca { 
+text-align: center;
+background-color: #fff;
+}
