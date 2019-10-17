@@ -5,7 +5,7 @@
 }	
 
 a {
-	color: #fff;
+	color: #000;
 	font:18px Lucida Handwriting;
 	text-decoration: none;
 	padding: 10px;
@@ -154,6 +154,10 @@ font-family: Lucida Calligraphy;
 .autorais {
 	background-color: black;
 }
+div section div {
+	background-color: orangered;
+}
+@keyframes
 
 @media screen and (max-width: 600px) {
 	
@@ -314,3 +318,5 @@ font-family: Lucida Calligraphy;
 }
 
 }
+
+
